@@ -1,6 +1,10 @@
 ---
 name: Language Request
 about: Use this template to request a new language
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # Language you would like added
@@ -12,4 +16,3 @@ about: Use this template to request a new language
 
 # Disclaimer
 If you would like to work on this issue, please comment here so that you are assigned.
-

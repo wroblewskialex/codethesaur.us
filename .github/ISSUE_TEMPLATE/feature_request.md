@@ -1,6 +1,10 @@
 ---
 name: Feature Request
 about: Use this template for requesting new features
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # Description

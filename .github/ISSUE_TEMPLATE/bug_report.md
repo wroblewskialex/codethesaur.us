@@ -1,6 +1,11 @@
 ---
 name: Bug Report
-about: Use this template for reporting bugs (not security issues, see the Security Policy)
+about: Use this template for reporting bugs (not security issues, see the Security
+  Policy)
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # Expected Behavior
