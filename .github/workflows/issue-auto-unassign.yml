@@ -14,8 +14,8 @@ jobs:
         id: unassign_issues
         with:
           token: ${{secrets.GITHUB_TOKEN}}
-          warning_inactive_in_hours: .1 # 1 hour # 14 days
-          unassign_inactive_in_hours: .1 # 1 hour # 3 days later
+          warning_inactive_in_hours: 1 #1 hour # 14 days
+          unassign_inactive_in_hours: 1 #1 hour # 3 days later
           office_hours: 'n/a'
           warning_inactive_message: "If you are still working on this issue, that's fine. Please comment here to tell the bot to give you more time."
       - name: Print the unassigned issues
