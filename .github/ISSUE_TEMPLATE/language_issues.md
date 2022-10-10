@@ -1,6 +1,10 @@
 ---
 name: Language Issue
 about: Use this template to report issues with a language
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # Language
